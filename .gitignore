@@ -1,3 +1,8 @@
 zig-out/
 .zig-cache/
 tasks.md
+
+
+# Added by cargo
+
+/target
